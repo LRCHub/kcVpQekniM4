@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "grace",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2025-12-03T13:20:56.231775Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "But For The Grace Of God",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/01_But_For_The_Grace_Of_God_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You and Tequila (feat. Grace Potter)",
+      "artist": "Kenny Chesney feat. Grace Potter",
+      "has_synced": true,
+      "path": "select/02_You_and_Tequila_(feat._Grace_Potter)_Kenny_Chesney_feat._Grace_Potter.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Grace Kelly",
+      "artist": "MIKA",
+      "has_synced": true,
+      "path": "select/03_Grace_Kelly_MIKA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Arms Race for God’s Grace",
+      "artist": "Royal Coda",
+      "has_synced": true,
+      "path": "select/04_Arms_Race_for_God’s_Grace_Royal_Coda.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Amazing Grace",
+      "artist": "Pras",
+      "has_synced": false,
+      "path": "select/05_Amazing_Grace_Pras.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Segue - Baby Grace (A Horrid Cassette)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/06_Segue_-_Baby_Grace_(A_Horrid_Cassette)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby Grace (A Horrid Cassette) (Segue)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/07_Baby_Grace_(A_Horrid_Cassette)_(Segue)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blue Grace",
+      "artist": "Leila",
+      "has_synced": false,
+      "path": "select/08_Blue_Grace_Leila.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Grace Alek Naomi",
+      "artist": "Le1f",
+      "has_synced": true,
+      "path": "select/09_Grace_Alek_Naomi_Le1f.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Grace, Alek or Naomi",
+      "artist": "Le1f",
+      "has_synced": true,
+      "path": "select/10_Grace,_Alek_or_Naomi_Le1f.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Grace (feat. 42 Dugg)",
+      "artist": "Lil Baby feat. 42 Dugg",
+      "has_synced": true,
+      "path": "select/11_Grace_(feat._42_Dugg)_Lil_Baby_feat._42_Dugg.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Grace (feat. 42 Dugg)",
+      "artist": "Lil Baby",
+      "has_synced": true,
+      "path": "select/12_Grace_(feat._42_Dugg)_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "O! Grace",
+      "artist": "Magnolia Electric Co.",
+      "has_synced": true,
+      "path": "select/13_O!_Grace_Magnolia_Electric_Co..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ezekiel 7 and the Permanent Efficacy of Grace",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/14_Ezekiel_7_and_the_Permanent_Efficacy_of_Grace_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "FALL FROM GRACE FT. CATHERINE POCKSON OF ALPINES",
+      "artist": "Maya Jane Coles",
+      "has_synced": false,
+      "path": "select/15_FALL_FROM_GRACE_FT._CATHERINE_POCKSON_OF_ALPINES_Maya_Jane_Coles.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fall From Grace (feat. Catherine Pockson Of Alpines)",
+      "artist": "Maya Jane Coles",
+      "has_synced": false,
+      "path": "select/16_Fall_From_Grace_(feat._Catherine_Pockson_Of_Alpines)_Maya_Jane_Coles.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "grace",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_grace_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "grace",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_02_grace_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "grace",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_03_grace_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "grace",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_04_grace_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "grace",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_05_grace_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "grace",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_06_grace_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "grace",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_07_grace_藤井_風.txt"
+    }
+  ]
+}
